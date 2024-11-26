@@ -4,13 +4,30 @@ h1 {
 
 .container {
     padding: 20px;
+    background-color: white;
+}
+
+main {
+    background-color: white;
 }
 
 .section {
+    color: #ecfeff;
     display: inline-block;
     background-color: #4fa3de;
-    border-radius: 10px;
+    border-radius: 5px;
     padding-left:auto;
-    margin-left: 150px;
+    margin-left: 170px;
+    margin-top: 50px;
 
+}
+
+.section1 {
+    color: rgb(10, 252, 171);
+    display: inline-block;
+    background-color: #ecfeff;
+    border-radius: 5px;
+    padding-left:auto;
+    margin-left: 10px;
+    margin-top: 50px;
 }
