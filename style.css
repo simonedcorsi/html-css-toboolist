@@ -11,7 +11,7 @@ main {
     background-color: white;
 }
 
-.Task {
+.task {
     color: #ecfeff;
     display: inline-block;
     background-color: #4fa3de;
@@ -22,7 +22,7 @@ main {
 
 }
 
-.Task2 {
+.task2 {
     color: rgb(10, 252, 171);
     display: inline-block;
     background-color: #ade6e9;
@@ -33,7 +33,7 @@ main {
 }
 
 hr {
-    color:azure;
+    color:rgb(223, 241, 241);
     margin-top: 20px;
 }
 
@@ -52,7 +52,21 @@ h4 {
 }
 
 
-.color {
+.blu {
     background-color:#4fa3de ;
     border-radius: 5px;
+}
+
+.viola {
+    background-color:#4fa3de ;
+    border-radius: 5px;
+}
+
+.verde {
+    background-color:#4fa3de ;
+    border-radius: 5px;
+}
+
+.arancione {
+    
 }
