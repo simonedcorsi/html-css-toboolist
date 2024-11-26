@@ -55,18 +55,23 @@ h4 {
 .blu {
     background-color:#4fa3de ;
     border-radius: 5px;
+    color: white;
 }
 
 .viola {
-    background-color:#4fa3de ;
+    background-color:#924fde ;
     border-radius: 5px;
+    color: white;
 }
 
 .verde {
-    background-color:#4fa3de ;
+    background-color:#2abb3f ;
     border-radius: 5px;
+    color: white;
 }
 
 .arancione {
-    
+    background-color:#e1782d ;
+    border-radius: 5px;
+    color: white;
 }
