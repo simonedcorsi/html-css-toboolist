@@ -11,7 +11,7 @@ main {
     background-color: white;
 }
 
-.section {
+.Task {
     color: #ecfeff;
     display: inline-block;
     background-color: #4fa3de;
@@ -22,10 +22,10 @@ main {
 
 }
 
-.section1 {
+.Task2 {
     color: rgb(10, 252, 171);
     display: inline-block;
-    background-color: #ecfeff;
+    background-color: #ade6e9;
     border-radius: 5px;
     padding-left:auto;
     margin-left: 10px;
@@ -35,4 +35,24 @@ main {
 hr {
     color:azure;
     margin-top: 20px;
+}
+
+h2 {
+    margin-left: 170px;
+    margin-top: 20px;
+}
+
+.position{
+    margin-left: 170px;
+    margin-top: 15px;
+}
+
+h4 {
+    display: inline-block;
+}
+
+
+.color {
+    background-color:#4fa3de ;
+    border-radius: 5px;
 }
