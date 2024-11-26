@@ -44,7 +44,7 @@ h2 {
 
 .position{
     margin-left: 170px;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 h4 {
@@ -56,22 +56,26 @@ h4 {
     background-color:#4fa3de ;
     border-radius: 5px;
     color: white;
+    padding: 5px;
 }
 
 .viola {
     background-color:#924fde ;
     border-radius: 5px;
     color: white;
+    padding: 5px;
 }
 
 .verde {
     background-color:#2abb3f ;
     border-radius: 5px;
     color: white;
+    padding: 5px;
 }
 
 .arancione {
     background-color:#e1782d ;
     border-radius: 5px;
     color: white;
+    padding: 5px;
 }
