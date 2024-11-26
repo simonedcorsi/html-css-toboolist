@@ -31,3 +31,8 @@ main {
     margin-left: 10px;
     margin-top: 50px;
 }
+
+hr {
+    color:azure;
+    margin-top: 20px;
+}
