@@ -2,6 +2,15 @@ h1 {
     display: inline-block;
 }
 
-.container{
+.container {
     padding: 20px;
+}
+
+.section {
+    display: inline-block;
+    background-color: #4fa3de;
+    border-radius: 10px;
+    padding-left:auto;
+    margin-left: 150px;
+
 }
