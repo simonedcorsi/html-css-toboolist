@@ -19,6 +19,7 @@ main {
     padding-left:auto;
     margin-left: 170px;
     margin-top: 50px;
+    padding: 5px;
 
 }
 
@@ -30,6 +31,7 @@ main {
     padding-left:auto;
     margin-left: 10px;
     margin-top: 50px;
+    padding: 5px;
 }
 
 hr {
@@ -54,28 +56,28 @@ h4 {
 
 .blu {
     background-color:#4fa3de ;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
-    padding: 5px;
+    padding: 2px;
 }
 
 .viola {
     background-color:#924fde ;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
-    padding: 5px;
+    padding: 2px;
 }
 
 .verde {
     background-color:#2abb3f ;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
-    padding: 5px;
+    padding: 2px;
 }
 
 .arancione {
     background-color:#e1782d ;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
-    padding: 5px;
+    padding: 2px;
 }
